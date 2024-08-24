@@ -38,3 +38,6 @@ next-env.d.ts
 /LLM/PDF/model
 
 /ChatWithPdf/venv
+
+
+\ChatWithPdf\.env
